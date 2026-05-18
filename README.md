@@ -1,7 +1,7 @@
 # VWAP Mean-Reversion Research Tool
 ### ES Futures | Tick Data | NY Regular Trading Hours
 
-![VWAP Analysis Chart](vwap_analysis.png)
+![VWAP Analysis Chart](output(vwap-mean-reversion).png)
 
 ---
 
